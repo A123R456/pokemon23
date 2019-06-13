@@ -1,0 +1,27 @@
+body{
+	background: url(../img/fondo.jpg) no-repeat center center fixed;
+	background-size: cover; 
+}
+
+.principal-section{
+	margin: 0 auto;
+	margin-top: 25%;
+	padding: 0;
+}
+
+
+.usua-img{
+	margin-top: -50px:
+	margin-top: 35px; 
+}
+.usua-img img{
+	width: 100px;
+	height: 100px;
+}
+
+.contenido{
+	background-color: #3b4652;
+	opacity: .95;
+	padding: 0 20px;
+
+}
